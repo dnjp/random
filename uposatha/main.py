@@ -7,7 +7,7 @@ import csv
 from datetime import date
 from datetime import datetime
 
-IN_FILE_PATH = "./dates.csv"
+IN_FILE_PATH = "./dates.txt"
 OUT_FILE_PATH = "./out.csv"
 YEAR = 2024
 EVENT_DESCRIPTION = "Buddhist day of observance. Dates gathered from Metta Forest Monastery: https://www.watmetta.org/"
