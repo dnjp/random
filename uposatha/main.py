@@ -1,5 +1,7 @@
 """
-This parses individual dates from csv
+Parses Uposatha dates from a text file where each line has the format:
+
+<Month> <Day> <Day>* <Day>
 """
 
 import csv
